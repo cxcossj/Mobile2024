@@ -1,19 +1,20 @@
 {
   "users": [
     {
-      "username": "j.riquelmee",
-      "email": "correo@correo.cl",
+      "username": "luffy",
+      "email": "correo@prueba.com",
       "password": "pass1234"
     },
     {
-      "username": "z.test",
-      "email": "email@gmail.com",
+      "username": "kon.bleach",
+      "email": "luffy@gmail.com",
       "password": "password1234"
     },
     {
-      "username": "i.prueba",
-      "email": "prueba@outlook.com",
+      "username": "j.prueba",
+      "email": "prueba@hotmail.com",
       "password": "contraseña"
     }
   ]
 }
+
